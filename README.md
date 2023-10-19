@@ -14,7 +14,7 @@ Once you are done, please provide us with a link to a git repo with your code, r
 
 Based on the KISS principle.
 
-Run `node api.js` to start the API.
+Run `npm run api` to start the API.
 
 ## Notes
 
